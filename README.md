@@ -1,9 +1,5 @@
 # GANomaly
-<<<<<<< HEAD
-The repository has implemented the **GANomaly**      
-=======
-The repository has implemented the **GANomaly**   
->>>>>>> 072554f81d2c05fb1729ba9bbc9691ab828f77aa
+The repository has implemented the **GANomaly** 
 
 **Requirements**
 * python 3.6   
