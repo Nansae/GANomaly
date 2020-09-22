@@ -1,5 +1,9 @@
 # GANomaly
+<<<<<<< HEAD
+The repository has implemented the **GANomaly**      
+=======
 The repository has implemented the **GANomaly**   
+>>>>>>> 072554f81d2c05fb1729ba9bbc9691ab828f77aa
 
 **Requirements**
 * python 3.6   
@@ -37,6 +41,9 @@ The repository has implemented the **GANomaly**
 2. Run **train.py**
 3. The result images are saved per epoch in the **sample_data**
 
+## Future work
+* Upload result images
+* Upload test.py file.
 
 ## Reference
 * Akcay, Samet, Amir Atapour-Abarghouei, and Toby P. Breckon. "Ganomaly: Semi-supervised anomaly detection via adversarial training." Asian conference on computer vision. Springer, Cham, 2018.
