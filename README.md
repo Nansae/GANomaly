@@ -1,5 +1,5 @@
-# Bidirectional GAN
-The repository has implemented the **Bidirectional GAN(BiGAN)**   
+# GANomaly
+The repository has implemented the **GANomaly**   
 
 **Requirements**
 * python 3.6   
